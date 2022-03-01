@@ -1,7 +1,7 @@
 
 
 
-<div style="height:100%;width:100%;background:red;">
+<div style="height:100%;width:100%;background-color:red;">
   
   
 
