@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-navbar-hor/static/css/main.9cb5529f.css",
+    "main.js": "/react-navbar-hor/static/js/main.3af59dc3.js",
+    "static/media/logo.svg": "/react-navbar-hor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-navbar-hor/index.html",
+    "main.9cb5529f.css.map": "/react-navbar-hor/static/css/main.9cb5529f.css.map",
+    "main.3af59dc3.js.map": "/react-navbar-hor/static/js/main.3af59dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb5529f.css",
+    "static/js/main.3af59dc3.js"
+  ]
+}
