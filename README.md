@@ -133,7 +133,7 @@ export default About;
 
 </br>
 
-[Github](https://goranivankovic.github.io)
+[Github](https://github.com/goranivankovic/react-navbar-hor)
 
 
 
