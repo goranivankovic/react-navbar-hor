@@ -76,7 +76,7 @@ function App() {
                
              /* Menu items  names required */ 
              
-             /* Routes will be example  ["#mission","#about","#health","#traning","#app","#cntact"] give your div components div names of menuItems*/
+             /* Routes will be example to ["#mission","#about","#health","#traning","#app","#cntact"] give your div components div names of menuItems*/
              
                menuItems={["Mission","About","Health","Traning","App","Contact"]}
     
