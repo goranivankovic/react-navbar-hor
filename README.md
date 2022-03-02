@@ -31,7 +31,7 @@ npm install react-navbar-hor
 
 
 
-  <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" heigt="500" width="50%" />
+  <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" heigt="500" width="500" />
   
   
   <p>
