@@ -81,7 +81,7 @@ function App() {
              
              /* Routes will be example to ["#mission","#about","#health","#traning","#app","#cntact"] give your div components id names of menuItems*/
              
-               menuItems={["Mission","About","Health","Traning","App","Contact"]}
+               =
     
                 />
 
@@ -106,9 +106,28 @@ function App() {
 
 </br>
 
+
+<h4>Example</h4>
+
+
 ```
 
 
+import React from 'react'
+
+function About() {
+  return (
+    <div id='about'>
+   
+    
+   Give your component id of menuItems children  :  /*menuItems={["Mission","About","Health","Traning","App","Contact"]}*/
+    
+
+    </div>
+  )
+}
+
+export default Abou
 
 
 ```
