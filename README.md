@@ -1,6 +1,6 @@
 
 .footer{
-background-color:red;
+background:red;
 }
 
 <div class="footer">
