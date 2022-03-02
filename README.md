@@ -1,11 +1,11 @@
 
 
 
-<div style="height:800;width: 100%;background-color: red;">
+<div class="footer">
   
   
 
-<img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" />
+       <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" />
   
   
   
