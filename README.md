@@ -8,13 +8,13 @@
 
 
 ## Installation
-
-Use the npm package manager to install react-navbar-res
-
+```
+Use the npm package manager to install react-navbar-hor
+```
 
 
 ```bash
-npm install responsive-react-js-navbar
+npm install react-navbar-hor
 ```
 
 
