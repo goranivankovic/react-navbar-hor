@@ -45,7 +45,7 @@ function App() {
               
                 logo="LOGO"
 
-              /* Change text color of Logo  */
+              /* Change text-color of Logo  */
               
                 logoColor='white'
   
@@ -75,6 +75,10 @@ function App() {
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+##
+[goranivankovic](https://github.com/goranivankovic)
 
 
 
