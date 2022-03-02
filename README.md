@@ -31,23 +31,33 @@ npm install react-navbar-hor
 import React from 'react';
 import SideBar from 'react-navbar-hor'
 
-function App(props) {
+function App() {
    
     return (  
         <>
            <SideBar
    
-   
+              /* Change background-color of navbar  */
+              
                bgColor="#0D5DCD"
-
+          
+              /* Change name of Logo  */
+              
                 logo="LOGO"
 
+              /* Change text color of Logo  */
+              
                 logoColor='white'
   
-
+              /* Change text-color of navbar items  */
+              
                text_color='white'
+               
+              /* Change color of bars that displays on 768px  */
 
                barsColor="white"
+               
+             /* Menu items  */
  
               menuItems={["Mission","About","Health","Traning","App","Contact"]}
     
