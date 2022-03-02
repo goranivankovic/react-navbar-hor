@@ -35,7 +35,7 @@ npm install react-navbar-hor
   
   
   <p>
-  Simple responsive navbar.</br>
+  Responsive navbar with props.</br>
   Technologies use: react, styled-components, react-hooks, react-icons, css.</br>
   Don't waste your time building your own navbar, just simple downloaded with npm.</br>
   Required: Node.js, NPM, React.</br>
@@ -102,6 +102,16 @@ function App() {
 
 ##
 [developed](https://github.com/goranivankovic)
+
+
+</br>
+
+```
+
+
+
+
+```
 
 
 
