@@ -23,7 +23,7 @@ npm install react-navbar-hor
 
 </br>
 
-[Link](https://goranivankovic.github.io/react-navbar-hor/)
+<h2> [Link](https://goranivankovic.github.io/react-navbar-hor/)</h2>
 
 
 </br>
