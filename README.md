@@ -29,5 +29,5 @@ npm install react-navbar-hor
 
 ```javascript
 import React from 'react';
-import Navbar from 'responsive-react-js-navbar'
+import Navbar from 'react-navbar-hor'
 
