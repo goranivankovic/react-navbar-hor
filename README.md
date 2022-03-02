@@ -76,9 +76,9 @@ function App() {
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+<hr></hr>
 ##
-[goranivankovic](https://github.com/goranivankovic)
+[developed by](https://github.com/goranivankovic)
 
 
 
