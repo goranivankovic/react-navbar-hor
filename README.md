@@ -93,22 +93,9 @@ function App() {
 
 ```
 
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-<hr></hr>
-
-##
-[developed](https://github.com/goranivankovic)
-
-
 </br>
 
-
-<h4>Example</h4>
+<h3>Example</h3>
 
 
 ```javascript
@@ -132,6 +119,19 @@ export default Abou
 
 
 ```
+
+</br>
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<hr></hr>
+
+##
+[developed](https://github.com/goranivankovic)
+
+
+</br>
 
 
 
