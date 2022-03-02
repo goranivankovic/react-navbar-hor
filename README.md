@@ -10,7 +10,7 @@
 ## Installation
 ```
 Use the npm package manager to install react-navbar-hor
-```
+
 
 
 ```bash
