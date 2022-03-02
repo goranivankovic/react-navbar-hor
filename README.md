@@ -29,35 +29,31 @@ npm install react-navbar-hor
 
 ```javascript
 import React from 'react';
-import Navbar from 'react-navbar-hor'
+import SideBar from 'react-navbar-hor'
 
 function App(props) {
-    const links = [{
-        "href": "/#",
-        "label": "Home",
-        "background": false,
-    },
-    {
-        "href": "/login",
-        "label": "Login",
-        "background": false,
-    },
-    {
-        "href": "/register",
-        "label": "Register",
-        "background": true,
-    }
-    ]
-
-
-    return (
+   
+    return (  
         <>
-            <Navbar
-                logo='/your-logo-url.png'
-                logoHref='/where-logo-click-redirect'
-                links={links}
+           <SideBar
+   
+   
+               bgColor="#0D5DCD"
 
-            />
+                logo="LOGO"
+
+                logoColor='white'
+  
+
+               text_color='white'
+
+               barsColor="white"
+ 
+              menuItems={["Mission","About","Health","Traning","App","Contact"]}
+    
+                />
+
+           
         </>
     );
 }
