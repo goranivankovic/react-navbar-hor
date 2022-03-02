@@ -1,6 +1,5 @@
 
-
-**This is bold text**
+<h1>React responsiv navbar with props</h1>
 
 
 
