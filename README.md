@@ -14,12 +14,16 @@ Use the npm package manager to install react-navbar-hor
 </br>
 
 
-[link](https://goranivankovic.github.io/react-navbar-hor/)
+
 
 
 ```bash
 npm install react-navbar-hor
 ```
+
+</br>
+
+[Link](https://goranivankovic.github.io/react-navbar-hor/)
 
 
 
