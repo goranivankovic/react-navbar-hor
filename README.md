@@ -57,9 +57,11 @@ function App() {
 
                barsColor="white"
                
-             /* Menu items  */
- 
-              menuItems={["Mission","About","Health","Traning","App","Contact"]}
+             /* Menu items  names */ 
+             
+             /* Routes will be example  ["#mission","#about","#health","#traning","#app","#cntact"] give your div component divs names of menuItems*/
+             
+               menuItems={["Mission","About","Health","Traning","App","Contact"]}
     
                 />
 
