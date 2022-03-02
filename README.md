@@ -22,4 +22,12 @@ npm install react-navbar-hor
 
 
   <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" />
+  
+  
+  
+  ## Usage
+
+```javascript
+import React from 'react';
+import Navbar from 'responsive-react-js-navbar'
 
