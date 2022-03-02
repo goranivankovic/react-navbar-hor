@@ -79,7 +79,7 @@ function App() {
 <hr></hr>
 
 ##
-[developed by](https://github.com/goranivankovic)
+[developed](https://github.com/goranivankovic)
 
 
 
