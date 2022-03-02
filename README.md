@@ -31,3 +31,36 @@ npm install react-navbar-hor
 import React from 'react';
 import Navbar from 'react-navbar-hor'
 
+function App(props) {
+    const links = [{
+        "href": "/#",
+        "label": "Home",
+        "background": false,
+    },
+    {
+        "href": "/login",
+        "label": "Login",
+        "background": false,
+    },
+    {
+        "href": "/register",
+        "label": "Register",
+        "background": true,
+    }
+    ]
+
+
+    return (
+        <>
+            <Navbar
+                logo='/your-logo-url.png'
+                logoHref='/where-logo-click-redirect'
+                links={links}
+
+            />
+        </>
+    );
+}
+
+
+
