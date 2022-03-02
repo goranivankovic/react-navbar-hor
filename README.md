@@ -9,7 +9,7 @@
 
 ## Installation
 
-<h4>Use the npm package manager to install react-navbar-hor</h4>
+<h5>Use the npm package manager to install react-navbar-hor</h5>
 
 </br>
 
