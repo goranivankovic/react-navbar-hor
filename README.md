@@ -13,5 +13,11 @@ Use the npm package manager to install react-navbar-res
 
 
 
+```bash
+npm install responsive-react-js-navbar
+```
+
+
+
   <img src="https://media.giphy.com/media/PmN6BuVy5VIUzA8zJ0/giphy.gif" />
 
