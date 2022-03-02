@@ -110,7 +110,7 @@ function App() {
 <h4>Example</h4>
 
 
-```
+```javascript
 
 
 import React from 'react'
