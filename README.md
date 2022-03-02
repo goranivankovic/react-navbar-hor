@@ -37,27 +37,27 @@ function App() {
         <>
            <SideBar
    
-              /* Change background-color of navbar  */
+              /* Change background-color of navbar  required */
               
                bgColor="#0D5DCD"
           
-              /* Change name of Logo  */
+              /* Change name of Logo  required */
               
                 logo="LOGO"
 
-              /* Change text-color of Logo  */
+              /* Change text-color of Logo  required */
               
                 logoColor='white'
   
-              /* Change text-color of navbar items  */
+              /* Change text-color of navbar items  required */
               
                text_color='white'
                
-              /* Change color of bars that displays on 768px  */
+              /* Change color of bars that displays on 768px  required */
 
                barsColor="white"
                
-             /* Menu items  names */ 
+             /* Menu items  names required */ 
              
              /* Routes will be example  ["#mission","#about","#health","#traning","#app","#cntact"] give your div components div names of menuItems*/
              
