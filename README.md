@@ -105,7 +105,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div id='mission'>
+    <div id='about'>
    
     
    Give your component id of menuItems children  :  /*menuItems={["Mission","About","Health","Traning","App","Contact"]}*/
