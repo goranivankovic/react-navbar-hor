@@ -20,7 +20,7 @@
 npm install react-navbar-hor
 ```
 
-<h4>And react-icons must be installed</h4>
+<h4>react-icons and styled-components must be installed</h4>
 
 
 ```bash
