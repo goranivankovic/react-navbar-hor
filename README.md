@@ -122,21 +122,22 @@ export default About;
 
 </br>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />(https://github.com/goranivankovic/react-navbar-hor)
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />https://github.com/goranivankovic/react-navbar-hor
 
 </br>
 <img  align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" />https://www.npmjs.com/package/react-navbar-hor
 
 
 
-
+<hr></hr>
 
 </br>
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<hr></hr>
+
+</br>
 
 ##
 [developed](https://github.com/goranivankovic)
