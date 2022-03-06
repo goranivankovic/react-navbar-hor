@@ -115,7 +115,7 @@ function About() {
     <div id='about'>
    
   /*  
-   Give your component id of menuItems children  : menuItems={["Mission","About","Health","Traning","App","Contact"]}
+   Give your component id of menuItems children  : menuItems={["#mission","#about","#health","#traning","#app","#contact"]}
    */
     
 
