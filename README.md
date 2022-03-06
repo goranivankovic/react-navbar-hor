@@ -62,11 +62,11 @@ function App() {
               
                bgColor="#0D5DCD"
           
-              /* Change name of Logo  required */
+              /* Change name of Logo   */
               
                 logo="LOGO"
 
-              /* Change text-color of Logo  required */
+              /* Change text-color of Logo   */
               
                 logoColor='white'
   
