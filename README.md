@@ -20,7 +20,8 @@
 ```bash
 npm install react-navbar-hor
 ```
-</br>
+
+
 <h4>And react-icons must be installed</h4>
 ```bash
 npm install react-icons --save
