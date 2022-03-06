@@ -86,7 +86,8 @@ function App() {
                
              /* Menu items  names required */ 
              
-             /* Routes will be example to ["#mission","#about","#health","#traning","#app","#cntact"] give your div components id names of menuItems*/
+             /* Routes will be example to give your div components id names of menuItems*/
+               menuItems={["Mission","About","Health","Traning","App","Contact"]} 
              
                
     
@@ -113,8 +114,9 @@ function About() {
   return (
     <div id='about'>
    
-    
-   Give your component id of menuItems children  :  /*menuItems={["Mission","About","Health","Traning","App","Contact"]}*/
+  /*  
+   Give your component id of menuItems children  : menuItems={["Mission","About","Health","Traning","App","Contact"]}
+   */
     
 
     </div>
