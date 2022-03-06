@@ -24,7 +24,7 @@ npm install react-navbar-hor
 
 
 ```bash
-npm install react-icons --save
+npm install react-icons styled-components --save
 ```
 
 </br>
