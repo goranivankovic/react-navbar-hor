@@ -82,7 +82,7 @@ function App() {
              
              /* Routes will be example to ["#mission","#about","#health","#traning","#app","#cntact"] give your div components id names of menuItems*/
              
-               =
+               
     
                 />
 
